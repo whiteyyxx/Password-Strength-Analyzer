@@ -123,10 +123,7 @@ index.html
 
 ## 👨‍💻 Author
 
-Your Name
+Sivakavi B
 
 ---
 
-## ⭐ Give a Star
-
-If you like this project, give it a ⭐ on GitHub!
